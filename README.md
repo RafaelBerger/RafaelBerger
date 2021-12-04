@@ -9,18 +9,18 @@
 
   
 ## 🚀 About Me / Sobre mim
-I'm a Front-end developer delighted by technologies and Web Development, currently in college and living on São Paulo - SP.
+I'm a Front-end developer delighted by technologie and Web Development, currently in college and living on São Paulo - SP.
 
-Sou um Desenvolvedor Front-end fascinado por tecnologias e Desenvolvimento Web, atualmente estudando em uma faculdade e morando em São Paulo - SP.
+Sou um Desenvolvedor Front-end fascinado por tecnologia e Desenvolvimento Web, atualmente estudando em uma faculdade e morando em São Paulo - SP.
 
   
   
 ## 🛠 Skills
 Proactivity, good communication and team spirit.
-Familiarity with agile methodologies like Scrum and Kanban, i can speak English and Portuguese.
+Familiarity with agile methodologies like Scrum, i can speak English and Portuguese.
 
 Proatividade, boa comunicação e espírito de equipe.
-Tenho familiaridade com metodologias ágeis como Scrum e Kanban, consigo falar em Inglês e Português.
+Tenho familiaridade com metodologias ágeis como Scrum, consigo falar em Inglês e Português.
 
 
 ## 👩‍💻 Technologies
