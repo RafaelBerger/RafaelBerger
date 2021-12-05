@@ -20,7 +20,7 @@ Proactivity, good communication and team spirit.
 Familiarity with agile methodologies like Scrum, i can speak English and Portuguese.
 
 Proatividade, boa comunicação e espírito de equipe.
-Tenho familiaridade com metodologias ágeis como Scrum, consigo falar em Inglês e Português.
+Tenho familiaridade com metodologias ágeis como Scrum, consigo falar Inglês e Português.
 
 
 ## 👩‍💻 Technologies
