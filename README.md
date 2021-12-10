@@ -15,7 +15,7 @@ Sou um Desenvolvedor Front-end fascinado por tecnologia e Desenvolvimento Web, a
 
   
   
-## 🛠 Skills
+## 🛠 Skills / Habilidades
 Proactivity, good communication and team spirit.
 Familiarity with agile methodologies like Scrum, i can speak English and Portuguese.
 
