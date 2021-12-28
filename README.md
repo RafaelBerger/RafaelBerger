@@ -9,9 +9,9 @@
 
   
 ## 🚀 About Me / Sobre mim
-I'm a Front-end Developer delighted by technologie and Web Development, currently in college and living on São Paulo - SP.
+I'm a Front-end Developer delighted by technologie and Web Development, always learning and pursuing knowledge, currently in college and living on São Paulo - SP.
 
-Sou um Desenvolvedor Front-end fascinado por tecnologia e Desenvolvimento Web, atualmente estudando em uma faculdade e morando em São Paulo - SP.
+Sou um Desenvolvedor Front-end fascinado por tecnologia e Desenvolvimento Web, sempre em busca de aprendizado e conhecimento, atualmente estudando em uma faculdade e morando em São Paulo - SP.
 
   
   
