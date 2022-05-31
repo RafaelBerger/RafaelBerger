@@ -56,7 +56,8 @@ Tenho familiaridade com metodologias ágeis como Scrum, consigo falar Inglês e 
 ## 🔗 Links
 [![website](https://img.shields.io/badge/-MY%20WEBSITE-blueviolet?style=for-the-badge&logo=appveyor&logoColor=white)](https://rafaelberger.vercel.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-berger/)
-
+[![E-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelberger.dev@gmail.com?subject=Olá%20Rafael)
+  
 
 
   
