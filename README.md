@@ -33,6 +33,7 @@ Tenho familiaridade com metodologias ágeis como Scrum, consigo falar Inglês e 
 [![Next](https://img.shields.io/badge/Next.js-171717?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org/)  
 [![MaterialUI](https://img.shields.io/badge/MUI-002984?style=for-the-badge&logo=mui&logoColor=00b0ff)](https://mui.com/pt/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)](https://getbootstrap.com/)
+[![Tailwind](https://img.shields.io/badge/-Tailwind-white?style=for-the-badge&logo=tailwindcss&logoColor=15B4C1)](https://tailwindcss.com/)
 
   
 #### Linguagens 
@@ -55,8 +56,8 @@ Tenho familiaridade com metodologias ágeis como Scrum, consigo falar Inglês e 
 [![VScode](https://camo.githubusercontent.com/d8d68d0ff3e31f17649ff3a86c30f95f90578a16c55e2cc34f09566a9083d0b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c53747564696f436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)]()
 
 ## 🔗 Links
-[![website](https://img.shields.io/badge/-MY%20WEBSITE-blueviolet?style=for-the-badge&logo=appveyor&logoColor=white)](https://rafaelberger.vercel.app)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-berger/)
+[![website](https://img.shields.io/badge/-MY%20WEBSITE-blueviolet?style=for-the-badge&logo=appveyor&logoColor=white)](https://rafaelberger.vercel.app)  
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-berger/)  
 [![E-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelberger.dev@gmail.com?subject=Olá%20Rafael)
   
 
