@@ -9,9 +9,9 @@
 
   
 ## 🚀 About Me / Sobre mim
-I'm a Front-end Developer delighted by technologie and Web Development, always learning and pursuing knowledge, acquired knowledge in the area through projects, courses and self-taught studies.
+I'm a Fullstack Developer delighted by technologie and Web Development, always learning and pursuing knowledge, acquired knowledge in the area through projects, courses and self-taught studies.
 
-Sou um Desenvolvedor Front-End fascinado por tecnologia e
+Sou um Desenvolvedor Fullstack fascinado por tecnologia e
 Desenvolvimento Web, estou sempre em busca de conhecimento e
 aprendizado constante, adquirindo conhecimento na área através de projetos, cursos e estudos.
 
