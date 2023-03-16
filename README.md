@@ -30,7 +30,6 @@ Tenho familiaridade com metodologias ágeis como Scrum, consigo falar Inglês e 
 
 #### Frameworks/Bibliotecas
 [![React](https://img.shields.io/badge/React-0A66C2?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Angular](https://img.shields.io/badge/Angular-ff6242?style=for-the-badge&logo=angular&logoColor=c61a09)](https://angular.io)
 [![Next](https://img.shields.io/badge/Next.js-171717?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org/)  
 [![Express](https://img.shields.io/badge/express-green?style=for-the-badge&logo=express&logoColor=black)](https://expressjs.com/pt-br/)
 [![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=black)](https://expressjs.com/pt-br/)  
