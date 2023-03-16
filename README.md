@@ -32,7 +32,6 @@ Tenho familiaridade com metodologias ágeis como Scrum, consigo falar Inglês e 
 [![React](https://img.shields.io/badge/React-0A66C2?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Next](https://img.shields.io/badge/Next.js-171717?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org/)  
 [![Express](https://img.shields.io/badge/express-green?style=for-the-badge&logo=express&logoColor=black)](https://expressjs.com/pt-br/)
-[![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=black)](https://expressjs.com/pt-br/)  
 [![MaterialUI](https://img.shields.io/badge/MUI-002984?style=for-the-badge&logo=mui&logoColor=00b0ff)](https://mui.com/pt/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)](https://getbootstrap.com/)
 [![Tailwind](https://img.shields.io/badge/-Tailwind-white?style=for-the-badge&logo=tailwindcss&logoColor=15B4C1)](https://tailwindcss.com/)
