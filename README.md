@@ -1,4 +1,5 @@
 
+
 # Welcome, I'm Rafael! / Bem-vindo(a), Sou o  Rafael! 👋
 
 <div align="center">
@@ -28,35 +29,62 @@ Tenho familiaridade com metodologias ágeis como Scrum, consigo falar Inglês e 
 
 ## 👩‍💻 Technologies / Tecnologias
 
-#### Frameworks/Bibliotecas
-[![React](https://img.shields.io/badge/React-0A66C2?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Next](https://img.shields.io/badge/Next.js-171717?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org/)  
-[![Express](https://img.shields.io/badge/express-green?style=for-the-badge&logo=express&logoColor=black)](https://expressjs.com/pt-br/)
-[![MaterialUI](https://img.shields.io/badge/MUI-002984?style=for-the-badge&logo=mui&logoColor=00b0ff)](https://mui.com/pt/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)](https://getbootstrap.com/)
-[![Tailwind](https://img.shields.io/badge/-Tailwind-white?style=for-the-badge&logo=tailwindcss&logoColor=15B4C1)](https://tailwindcss.com/)
 
-  
-#### Linguagens 
-[![Javascript](https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)]() 
-[![Typescript](https://img.shields.io/badge/Typescript-0A66C2?style=for-the-badge&logo=typescript&logoColor=00b0ff)](https://www.typescriptlang.org)
-[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org)
-[![Node](https://img.shields.io/badge/Nodejs-3E9B54?style=for-the-badge&logo=javascript&logoColor=black)](https://www.typescriptlang.org)  
-[![HTML5](https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)]()
-[![CSS3](https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f389cccfbe6cb1e29c10cfbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)]()
-[![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF)](https://sass-lang.com)
-  
-#### Versionamento de Código
-[![GIT](https://camo.githubusercontent.com/ec0d32e85caf4723d5182a75338c89f85a2c3679aed0c46c9ee9fd1c8dc2a316/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)]()
-[![GitHub](https://camo.githubusercontent.com/f6d50128cb007f85916b7a899da5d94f654dce35a37331c8d28573aef46f4274/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)]()
- #### Prototipagem de UI Design 
-[![Figma](https://img.shields.io/badge/-Figma-EA4C1D?style=for-the-badge&logo=figma&logoColor=ffffff)]()
-[![AdobeXD](https://img.shields.io/badge/-AdobeXD-450135?style=for-the-badge&logo=adobexd&logoColor=F75EEE)]()
-#### Sistemas Operacionais
-[![Windows](https://camo.githubusercontent.com/41281b9a32f13ac5b9d41ed9bae12c0de662f948f9bf59fd19df354fe49af146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465)]()
-[![Linux](https://camo.githubusercontent.com/878e15b4f7576e844856dc60d855ba0587d3d2bc56211fbe69734ebccb13b068/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b)]()
-#### Editor de Códigos
-[![VScode](https://camo.githubusercontent.com/d8d68d0ff3e31f17649ff3a86c30f95f90578a16c55e2cc34f09566a9083d0b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c53747564696f436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)]()
+### Frontend
+<p align="left"> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="tailwind" width="40" height="40"/> 
+  </a> 
+</p>
+
+### Backend e Banco de Dados
+<p align="left"> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="express" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="mysql" width="40" height="40"/> 
+  </a> 
+ <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+</p>
+
+### Design
+<p align="left"> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/figma.png" alt="figma" width="40" height="40"/> 
+  </a> 
+</p>
+
+### DevOps
+<p align="left"> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" width="40" height="40"/> 
+  </a> 
+</p>
+
 
 ## 🔗 Links
 [![website](https://img.shields.io/badge/-MY%20WEBSITE-blueviolet?style=for-the-badge&logo=appveyor&logoColor=white)](https://rafaelberger.vercel.app)  
